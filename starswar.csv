@@ -1,4 +1,4 @@
-""name";"height";"weight";"eyecolor";"haircolor";"jedi";"species"
+"name";"height";"weight";"eyecolor";"haircolor";"jedi";"species"
 "Anakin Skywalker";188;84;"blue";"blond";"jedi";"human"
 "Padme Amidala";165;45;"brown";"brown";"no_jedi";"human"
 "Luke Skywalker";172;77;"blue";"blond";"jedi";"human"
@@ -16,4 +16,4 @@
 "Jabba";390;;"yellow";"none";"no_jedi";"hutt"
 "Lando Calrissian";178;79;"brown";"blank";"no_jedi";"human"
 "Boba Fett";183;78;"brown";"black";"no_jedi";"human"
-"Jango Fett";183;79;"brown";"black";"no_jedi";"human
+"Jango Fett";183;79;"brown";"black";"no_jedi";"human"
